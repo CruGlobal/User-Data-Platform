@@ -1,4 +1,4 @@
-# CDP-docs
+# User Data Platform Documentation
 Documentation for the Known &amp; Moving System of Intelligence
 
-See the wiki for the formal documentation.
+More information coming soon.
